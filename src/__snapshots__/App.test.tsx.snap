@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tampilan form kalkulator Render Modul FormCalculator 1`] = `ShallowWrapper {}`;
+
+exports[`Tampilan form kalkulator Render Modul Halaman 1`] = `ShallowWrapper {}`;
